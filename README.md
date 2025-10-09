@@ -1,1 +1,0 @@
-# AplicacionesMovilesOrg-acceptance-tests
